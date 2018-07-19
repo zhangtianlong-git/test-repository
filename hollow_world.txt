@@ -1,1 +1,3 @@
-commit on acer and dev!
+<<<<<<< HEAD
+commit on dev!
+
