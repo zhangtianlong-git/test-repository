@@ -1,4 +1,3 @@
 add one line in test.txt
 commit on dev!
-commit on dell!
-second merge on master!
+
